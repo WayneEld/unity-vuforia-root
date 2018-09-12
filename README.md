@@ -1,4 +1,4 @@
-# unity-vuforia-root
+# Unity Vuforia and Root Insurance
 An AR Unity application with Vuforia to call the Root Insurance API. 
 
 A card object tracking AR app that uses an AR hub/plane to get quotes (via the Root insurance API) on specific AR objects that collide with the AR mesh quote plane.
